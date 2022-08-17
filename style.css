@@ -6,3 +6,49 @@
 body {
     background-color: rgb(253, 251, 251);
 }
+
+#cabecalho {
+    background-color: rgba(0, 139, 139, 0.878);
+    color: white;
+    padding-bottom: 65px;
+    padding-top: 12px;
+    text-align: center;
+}
+
+#minha-foto {
+    width: 180px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#descricao-foto {
+    display: block;
+    margin-left: 18px;
+}
+
+#licoes-aprendidas {
+    margin-left: 60px;
+    margin-top: 40px;
+    display: inline-block;
+}
+
+#licoes-a-aprender {
+    display: inline-block;
+    margin-left: 45px;
+}
+
+#secao-lista-ordenada h2 {
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+#artigo-aprendizado {
+    display: inline-block;
+    width: 50%;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+#titulo-aprendizado {
+    margin-bottom: 12px;
+}
