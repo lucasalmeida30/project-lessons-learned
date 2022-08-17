@@ -44,11 +44,30 @@ body {
 
 #artigo-aprendizado {
     display: inline-block;
-    width: 50%;
+    width: 59%;
     margin-left: 40px;
     margin-top: 30px;
 }
 
 #titulo-aprendizado {
     margin-bottom: 12px;
+    
 }
+
+#conteudo-lateral {
+    display: inline-block;
+    width: 34%;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+ #conteudo-lateral h3 {
+    margin-bottom: 10px;
+ }
+
+ #rodape {
+    background-color: rgb(57, 99, 100);
+    margin-top: 20px;
+    padding: 15px;
+    text-align: center;
+    color: white;
+ }
