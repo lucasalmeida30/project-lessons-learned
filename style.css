@@ -29,6 +29,7 @@ body {
 #descricao-foto {
     display: block;
     margin-left: 18px;
+    font-style: italic;
 }
 
 #licoes_aprendidas {
@@ -45,6 +46,7 @@ body {
 #secao-lista-ordenada h2 {
     margin-left: 20px;
     margin-top: 60px;
+    font-size: 25px;
 }
 
 #artigo-aprendizado {
