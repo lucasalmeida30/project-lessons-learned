@@ -10,12 +10,12 @@ body {
 #cabecalho {
     background-color: rgba(0, 139, 139, 0.878);
     color: white;
-    padding-bottom: 65px;
-    padding-top: 12px;
+    top: 0;
     text-align: center;
+    padding: 20px;
 }
 
-#minha-foto {
+#minha_foto {
     width: 180px;
     margin-left: 20px;
     margin-top: 20px;
@@ -26,13 +26,13 @@ body {
     margin-left: 18px;
 }
 
-#licoes-aprendidas {
+#licoes_aprendidas {
     margin-left: 60px;
     margin-top: 40px;
     display: inline-block;
 }
 
-#licoes-a-aprender {
+#licoes_a_aprender {
     display: inline-block;
     margin-left: 45px;
 }
