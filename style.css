@@ -1,24 +1,26 @@
-*{
+* {
     padding: 0;
     margin: 0;
-}
+ } 
 
 body {
     background-color: rgb(253, 251, 251);
 }
 
 #cabecalho {
-    background-color: rgba(0, 139, 139, 0.878);
+    background-color: rgb(0, 106, 106);
     color: white;
-    top: 0;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    padding: 30px;
     text-align: center;
-    padding: 20px;
 }
 
 #minha_foto {
     width: 180px;
     margin-left: 20px;
-    margin-top: 20px;
+    margin-top: 100px;
 }
 
 #descricao-foto {
