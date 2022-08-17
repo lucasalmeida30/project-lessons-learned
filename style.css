@@ -1,11 +1,15 @@
 * {
     padding: 0;
     margin: 0;
- } 
+} 
 
 body {
     background-color: rgb(253, 251, 251);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    line-height: 25px;
 }
 
 #cabecalho {
@@ -26,10 +30,11 @@ body {
     margin-top: 100px;
 }
 
-#descricao-foto {
+#descricao_foto {
     display: block;
     margin-left: 18px;
     font-style: italic;
+    color: rgb(0, 0, 0);
 }
 
 #licoes_aprendidas {
@@ -43,35 +48,35 @@ body {
     margin-left: 45px;
 }
 
-#secao-lista-ordenada h2 {
+#secao_lista_ordenada h2 {
     margin-left: 20px;
     margin-top: 60px;
     font-size: 25px;
 }
 
-#artigo-aprendizado {
+#artigo_aprendizado {
     display: inline-block;
     width: 59%;
     margin-left: 40px;
     margin-top: 30px;
 }
 
-#titulo-aprendizado {
+#titulo_aprendizado {
     margin-bottom: 12px;
     
 }
 
-#conteudo-lateral {
+#conteudo_lateral {
     display: inline-block;
     width: 34%;
     margin-top: 30px;
     margin-left: 10px;
 }
- #conteudo-lateral h3 {
+#conteudo_lateral h3 {
     margin-bottom: 10px;
  }
 
- #rodape {
+#rodape {
     background-color: rgb(57, 99, 100);
     margin-top: 20px;
     padding: 15px;
@@ -88,5 +93,5 @@ body {
  }
 
  table {
-    width: 400px;
+  width: 400px;
  }
